@@ -1,5 +1,6 @@
 ## The file is submitted for the purposes of the R programming course.
 ## The function inverses matrix.
+## This file has no purpose expect testing settings in GitHub.
 
 makeCacheMatrix <- function(x = matrix()) {
   
